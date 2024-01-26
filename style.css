@@ -1,0 +1,44 @@
+.nav{
+    background-color: rgb(236, 188, 133);
+    color: red;
+    padding-left: 60px;
+    /* margin-left: 60px; */
+    height: 85px;
+    padding-top: 10px;
+    /* text-align: center; */
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.mid{
+    /* color: black; */
+    background-color: violet;
+    margin-top: 150px;
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 90px;
+    border-radius: 0.5rem;
+}
+.mid:hover{
+    background-color: aquamarine;
+}
+.tit{
+    color: rgb(68, 15, 68);
+    text-align: center;
+}
+.text{
+    color: black;
+    text-align: center;
+    
+}
+.img{
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.images{
+    height: 300px;
+    width: 300px;
+    border-radius: 0.5rem;
+    margin-left: 20px;
+}
